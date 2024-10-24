@@ -1,3 +1,128 @@
 * {
     box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+header {
+    width: 800px;
+    margin: 0 auto;
+}
+
+main {
+    /* border: 1px solid red; */
+    width: 800px;
+    margin: 0 auto;
+}
+
+.design-section {
+    border: 1px solid black;
+    margin-bottom: 16px;
+}
+
+.container {
+    margin-left: 8px;
+}
+
+.color-container {
+    width: 200px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    text-align: center;
+
+
+
+}
+
+.color-cards {}
+
+.black {
+    background-color: black;
+    color: white;
+    display: inline-block;
+}
+
+.cream {
+    background-color: rgb(255, 253, 242);
+    color: black;
+    display: inline-block;
+
+}
+
+.gray {
+    background-color: rgb(249, 249, 249);
+    color: black;
+    display: inline-block;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.font-container {
+    display: inline-block;
+}
+
+.main-heading-style {
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 375;
+    font-style: normal;
+    font-size: 22px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.sub-heading-style {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 17px;
+
+}
+
+.paragraph-style {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+
+}
+
+/* fonts */
+.fira-sans-medium {
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.fira-sans-regular {
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.fira-sans-light-italic {
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+
+.poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.poppins-light-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: italic;
 }
